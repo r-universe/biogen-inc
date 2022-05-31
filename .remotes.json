@@ -1,0 +1,14 @@
+[
+  {
+    "package": "IDEAFilter",
+    "url": "https://github.com/Biogen-Inc/IDEAFilter",
+    "via": ["tidyCDISC"],
+    "from": "tidyCDISC"
+  },
+  {
+    "package": "tippy",
+    "url": "https://github.com/JohnCoene/tippy",
+    "via": ["tidyCDISC"],
+    "from": "tidyCDISC"
+  }
+]

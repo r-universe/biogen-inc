@@ -13,3 +13,8 @@
 	url = https://github.com/biogen-inc/tidycdisc
 	shallow = true
 	registered = true
+[submodule "tippy"]
+	path = tippy
+	url = https://github.com/JohnCoene/tippy
+	shallow = true
+	registered = false
