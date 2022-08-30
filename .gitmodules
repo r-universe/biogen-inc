@@ -8,3 +8,8 @@
 	url = https://github.com/biogen-inc/ideafilter
 	shallow = true
 	registered = true
+[submodule "tidyCDISC"]
+	path = tidyCDISC
+	url = https://github.com/biogen-inc/tidycdisc
+	shallow = true
+	registered = true
