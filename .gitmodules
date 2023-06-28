@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "IDEAFilter"]
 	path = IDEAFilter
 	url = https://github.com/biogen-inc/ideafilter
-	shallow = true
-	registered = true
 [submodule "tidyCDISC"]
 	path = tidyCDISC
 	url = https://github.com/biogen-inc/tidycdisc
-	shallow = true
-	registered = true
